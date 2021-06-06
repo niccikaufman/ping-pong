@@ -1,24 +1,24 @@
 {
-  "name": "APPLICATION NAME",
+  "name": "ping-pong",
   "version": "1.0.0",
-  "description": "### DESCRIPTION",
-  "main": "main.js",
+  "description": "### programming exercise that utilizes branching and looping using Ruby.",
+  "main": "main.rb",
   "scripts": {
     "build": "webpack --mode development",
     "start": "npm run build; webpack-dev-server --open --mode development",
-    "lint": "eslint src/*.js"
+    "lint": "eslint src/*.rb"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niccikaufman/REPOSITORY.git"
+    "url": "git+https://github.com/niccikaufman/ping-pong.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niccikaufman/REPOSITORY/issues"
+    "url": "https://github.com/niccikaufman/ping-pong/issues"
   },
-  "homepage": "https://github.com/niccikaufman/REPOSITORY#readme",
+  "homepage": "https://github.com/niccikaufman/ping-pong#readme",
   "devDependencies": {
     "clean-webpack-plugin": "3.0.0",
     "css-loader": "3.2.0",
