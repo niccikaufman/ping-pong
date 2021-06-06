@@ -1,28 +1,24 @@
-# (Application Name)
+# ping-pong
 
-#### (Brief Description of Application)
+#### A programming exercise that utilizes branching and looping with Ruby
 
 ## Created by [@nicckaufman](https://www.github.com/niccikaufman)
 
 ## Technologies used
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/niccikaufman/REPOSITORY.git
+  git clone https://github.com/niccikaufman/ping-pong.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd DIRECTORY
+  cd ping-pong
 ```
 
 Install dependencies
